@@ -1,0 +1,3 @@
+float64 coxa_arg
+float64 femur_arg
+float64 tibia_arg

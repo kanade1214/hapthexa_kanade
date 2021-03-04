@@ -1,0 +1,19 @@
+float64 w
+float64 h
+float64 hmax
+float64 hmin
+
+float64 z_offset
+
+bool is_swingleg
+bool is_firsttime
+
+# 遊脚時のphase，phase=1,2,3でそれぞれ持ち上げ，前進，下降
+# phase=0ならば1,2,3の動作を順に行う
+int64 phase
+---
+# 終了時の足先のxyz相対座標
+float64 x
+float64 y
+float64 z
+---

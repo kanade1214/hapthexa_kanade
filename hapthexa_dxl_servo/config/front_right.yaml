@@ -1,0 +1,16 @@
+hapthexa:
+  leg:
+    front_right:
+      force_sensor:
+        ros__parameters:
+          loadcell1_flag: -1
+          loadcell1_max: 134
+          loadcell1_min: -67
+          loadcell1_zero: 169
+          loadcell2_flag: 1
+          loadcell2_max: 129
+          loadcell2_min: -124
+          loadcell2_zero: 125
+          piezo_zero: 0
+          use_sim_time: false
+      

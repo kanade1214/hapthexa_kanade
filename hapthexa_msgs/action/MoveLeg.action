@@ -1,0 +1,14 @@
+# Goal Position
+float64 x
+float64 y
+float64 z
+# forcesensor option
+bool abort_if_forcesensor_z_detect_contact
+# relative option
+bool relative_mode
+---
+float64 x
+float64 y
+float64 z
+---
+float64 remaining
